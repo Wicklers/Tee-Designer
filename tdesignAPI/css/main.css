@@ -1,0 +1,33 @@
+body{
+	background:#789a00;
+	margin:0;
+}
+
+header{
+	width:100%;
+	min-width:1080px;
+}
+header a{
+	text-decoration:none;
+}
+span#logout,span#login{
+	color:white;
+	font-size:20px;
+	cursor:pointer;
+	position:absolute;
+	top:20px;
+	right:60px;
+}
+.main_content{
+	width:1080px;
+	height:auto;
+	//background:#973636;
+	margin:0 auto 100px auto;
+}
+.message{
+	font-family:Permanent Marker;
+	color:#acacac;
+	font-size:24px;
+	
+}
+
