@@ -1,5 +1,7 @@
 http://2wicklers.github.io/Tee-Designer/
 
+Demo: http://teedesigner.xp3.biz/
+
 Tee-Designer
 ============
 
