@@ -32,7 +32,3 @@ Upcoming Upgradations:
 Fork
 ====
   Help grow this plugin by your contribution, if you are a developer.
-
-More Information
-================
-  www.2wicklers.com/tee-designer/
