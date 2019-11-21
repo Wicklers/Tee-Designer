@@ -1,7 +1,3 @@
-http://wicklers.github.io/Tee-Designer/
-
-Demo: http://teedesigner.xp3.biz/
-
 Tee-Designer
 ============
 
@@ -26,9 +22,9 @@ How To Use :
 Upcoming Upgradations:
 ========================
 1. Better UI/UX.
-2. Support rotation of cliparts and texts.
-3. Better Documentation.
+2. Better Documentation.
 
 Fork
 ====
   Help grow this plugin by your contribution, if you are a developer.
+  
