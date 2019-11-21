@@ -1,0 +1,16 @@
+{
+  "name": "jquery-ui-rotatable",
+  "version": "1.1.0",
+  "homepage": "https://github.com/godswearhats/jquery-ui-rotatable",
+  "authors": [
+    "godswearhats"
+  ],
+  "description": "jquery-ui-rotatable is a plugin for jQuery UI that works in a similar way to Draggable and Resizable.",
+  "main": "jquery.ui.rotatable.js",
+  "keywords": [
+    "jQuery",
+    "jQuery UI",
+    "rotatable"
+  ],
+  "license": "MIT"
+}

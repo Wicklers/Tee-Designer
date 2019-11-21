@@ -1,0 +1,6 @@
+{
+  "name": "jquery-ui-rotatable",
+  "main": ["jquery.ui.rotatable.js", "jquery.ui.rotatable.css"],
+  "homepage": "https://github.com/godswearhats/jquery-ui-rotatable",
+  "version": "1.0.1"
+}
