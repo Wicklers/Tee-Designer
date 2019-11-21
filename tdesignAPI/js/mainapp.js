@@ -271,6 +271,9 @@ $(document).ready(function(){
 			div_to_textarea("#preview_back");
 		});
 
+		$("#preview_back").addClass('dis_none') ;
+		$("#preview_front").removeClass('dis_none') ;
+
 
 }//end function
 
